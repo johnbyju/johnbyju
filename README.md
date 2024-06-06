@@ -1,6 +1,7 @@
 ## Hi there 👋 I'am John..!
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer" alt="Typing SVG" /></a>
-<img align="right" width="400" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw2bndmN29hZHZucHhhYW9hOXhldmZhZ3RzNTVma2R2azczMW5zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" style="border-radius:18px"/>
+<img align="right" width="400" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw2bndmN29hZHZucHhhYW9hOXhldmZhZ3RzNTVma2R2azczMW5zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" 
+ style= "border-radius:15 " />
 - 🔭 Here's my [portfolio](https://johnbyju.github.io/)                                                 
 - 🌱 I’m currently learning DSA
 
