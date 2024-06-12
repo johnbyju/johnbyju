@@ -55,3 +55,9 @@ stack Development and code management, to make a valuable contribution in a prof
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 style="font-size: 45px;">The Techstack And The Tools I Use</h3>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,nestjs,apollo"/>
+  </a>
+</p>
