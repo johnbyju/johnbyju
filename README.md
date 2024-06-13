@@ -29,9 +29,6 @@ stack Development and code management, to make a valuable contribution in a prof
 &nbsp;
 
 <img align="right" height="250" width="450" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw2bndmN29hZHZucHhhYW9hOXhldmZhZ3RzNTVma2R2azczMW5zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-&nbsp;
-&nbsp;
-  
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2999&pause=1000&color=5029F7&random=false&width=435&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer" alt="Typing SVG" style="padding-left:12px;" />
 </a>
