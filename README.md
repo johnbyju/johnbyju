@@ -62,6 +62,12 @@ stack Development and code management, to make a valuable contribution in a prof
     <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,nestjs,apollo"/>
   </a>
 </p>
+<h3> Frontend</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html5,css,sass,bootstrap,tailwindcss, javascript,reactjs,nextjs,"/>
+  </a>
+</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Trophy:</h3>
