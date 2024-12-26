@@ -24,7 +24,7 @@ stack Development and code management, to make a valuable contribution in a prof
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="60" />
    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
 </div>
-<hr/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 &nbsp;
 <img align="right" height="350" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGw2bndmN29hZHZucHhhYW9hOXhldmZhZ3RzNTVma2R2azczMW5zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 &nbsp;
