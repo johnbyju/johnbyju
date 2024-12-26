@@ -60,7 +60,7 @@ stack Development and code management, to make a valuable contribution in a prof
 <h3> Backend </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,nestjs,apollo"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express"/>
   </a>
 </p>
 <h3> Frontend</h3>
