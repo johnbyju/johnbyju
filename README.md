@@ -57,18 +57,19 @@ stack Development and code management, to make a valuable contribution in a prof
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python"/>
 </p>
+    <h3> Frontend</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss,javascript,react,next,"/>
+  </a>
+</p>
 <h3> Backend </h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express"/>
   </a>
 </p>
-<h3> Frontend</h3>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss,javascript,react,next,"/>
-  </a>
-</p>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Trophy:</h3>
