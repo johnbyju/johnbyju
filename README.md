@@ -34,7 +34,7 @@ stack Development and code management, to make a valuable contribution in a prof
  
 - 🔭 Here's my [portfolio](https://johnbyju.github.io/) 
 
-- 🌱 Focused on learning and developing skills in blockchain technology, smart contracts, and Web3 to create impactful, decentralized applications.
+- 🌱 Focused on learning Web3 technology, smart contracts, and to create impactful Defi World.
 
 - 👯Excited by the potential to blend creativity with technology to deliver innovative software solutions
 
