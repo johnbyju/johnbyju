@@ -36,9 +36,9 @@ stack Development and code management, to make a valuable contribution in a prof
 
 - 🌱 I’m currently learning DSA 
 
-- 👯 I am seeking a full-time job opportunity.
+- 👯Excited by the potential to blend creativity with technology to deliver innovative software solutions
 
-- 💬 Everyday is Learning
+- 💬 Always exploring new tools, frameworks, and emerging technologies to expand my skills
 
 - 📫 How to reach me:
   <br/>
